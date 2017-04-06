@@ -48,7 +48,7 @@ img {
 
 #input-parent {
   width: 160px;
-  margin: 10% auto;
+  margin: 5% auto;
   position: relative;
 }
 #player-input {
@@ -73,7 +73,7 @@ img {
 
 .guess-list{
   background-color: white;
-  width: 400px;
+  width: 500px;
   margin: 0 auto;
 }
 .guess {
